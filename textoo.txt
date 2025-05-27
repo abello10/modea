@@ -1,0 +1,44 @@
+http://localhost:8080/api/v1/videojuegos
+{
+    "id": 1,
+    "nombreVideojuego": "The Legend of Zelda: Breath of the Wild",
+    "portada": "https://ejemplo.com/zelda-portada.jpg",
+    "descripcionVideojuego": "Una aventura épica en un vasto mundo abierto donde exploras, resuelves acertijos y luchas contra enemigos.",
+    "genero": "Aventura"
+  },
+  {
+    "id": 2,
+    "nombreVideojuego": "God of War: Ragnarok",
+    "portada": "https://ejemplo.com/gow-ragnarok.jpg",
+    "descripcionVideojuego": "Kratos y Atreus se enfrentan a los dioses nórdicos en esta épica continuación del viaje mitológico.",
+    "genero": "Acción"
+  },
+  {
+    "id": 3,
+    "nombreVideojuego": "Animal Crossing: New Horizons",
+    "portada": "https://ejemplo.com/animal-crossing.jpg",
+    "descripcionVideojuego": "Crea tu isla perfecta, haz amigos animales y disfruta de una vida relajante.",
+    "genero": "Simulación"
+  }
+
+
+http://localhost:8080/api/v1/usuarios
+
+{
+    "id": 1,
+    "nombreUsuario": "juan_perez",
+    "correo": "juan.perez@example.com",
+    "contrasena": "Juan1234!"
+  },
+  {
+    "id": 2,
+    "nombreUsuario": "maria_gomez",
+    "correo": "maria.gomez@example.com",
+    "contrasena": "Maria@2024"
+  },
+  {
+    "id": 3,
+    "nombreUsuario": "carlos_91",
+    "correo": "carlos.91@example.com",
+    "contrasena": "Car!os_91"
+  }
